@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "926883263950",
+    "project_id": "civika-announcement",
+    "storage_bucket": "civika-announcement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926883263950:android:58d16a8144b3401b0e679f",
+        "android_client_info": {
+          "package_name": "com.example.civika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926883263950-3n80se5kfu642kl37v1gn11m47tui3av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx5baUfAUNBIOHjSbChJQpdlbVlp59sFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926883263950-3n80se5kfu642kl37v1gn11m47tui3av.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
